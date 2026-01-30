@@ -1,0 +1,10 @@
+﻿
+> my-app@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Failed to compile.
+
+Module not found: Error: Can't resolve '/pool_hall_background.png' in 'C:\Users\HP\OneDrive\Desktop\my-app\src\styles'
+
+
