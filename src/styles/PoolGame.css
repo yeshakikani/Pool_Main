@@ -8,7 +8,7 @@
 
 .pool-game-container {
   min-height: 100vh;
-  background-image: url('C:/Users/HP/.gemini/antigravity/brain/8dccb8cc-841d-4199-9d14-751c67179d09/pool_hall_background_1769771409674.png');
+  background-image: url('/pool_hall_background.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
